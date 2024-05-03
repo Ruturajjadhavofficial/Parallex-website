@@ -3,7 +3,6 @@ Welcome to the GitHub repository for our Parallax Website! This site is a stunni
 
 Features:-
 - Pure HTML and CSS: No JavaScript or external libraries required.
-- Responsive Design: Looks great on both desktop and mobile devices.
 - Cross-Browser Compatibility: Ensures consistent look and behavior across major browsers.
 
 Technologies Used
