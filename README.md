@@ -5,6 +5,6 @@ Features:-
 - Pure HTML and CSS: No JavaScript or external libraries required.
 - Cross-Browser Compatibility: Ensures consistent look and behavior across major browsers.
 
-Technologies Used
+Technologies Used : 
 HTML5
 CSS3
